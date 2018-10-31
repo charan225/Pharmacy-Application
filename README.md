@@ -2,7 +2,7 @@
 
 ## Steps to setup the project
 
-- git clone https://github.com/charan225/node_assessment_lbg.git
+- git clone https://github.com/charan225/pharmacy-application-assignment.git
 - npm install
 - npm start
 - open public folder 
