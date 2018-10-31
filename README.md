@@ -2,7 +2,7 @@
 
 ## Steps to setup the project
 
-- git clone https://github.com/charan225/pharmacy-application-assignment.git
+- git clone https://github.com/charan225/Pharmacy-Application.git
 - npm install
 - npm start
 - open public folder 
